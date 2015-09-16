@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 手杖論
+#+DATE: 2015-08-30 21:00:20.632891
+#+PROPERTY: JUAN 0
